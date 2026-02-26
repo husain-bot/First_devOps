@@ -1,1 +1,3 @@
-Today is thusday Hello this is First DevOps Practical
+ Hello this is First DevOps Practical
+
+Hello welcome to devops world
